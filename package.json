@@ -2,9 +2,6 @@
   "name": "mentor-link-benin",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=20.9.0 <25.0.0"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
